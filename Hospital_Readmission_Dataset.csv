@@ -1,0 +1,101 @@
+Patient_ID,Age,Gender,Primary_Diagnosis,Insurance_Type,Length_of_Stay ,Readmission_Days,Total_Cost,Readmitted
+P001,31,Male,Infection,Uninsured,26,3,82854,Yes
+P002,37,Male,Infection,Uninsured,12,,26967,No
+P003,76,Male,Asthma,Private,10,3,49287,Yes
+P004,36,Male,Infection,Government,18,,43696,No
+P005,62,Female,Kidney Disease,Private,10,,30987,No
+P006,50,Female,Kidney Disease,Private,22,,76765,No
+P007,77,Female,Kidney Disease,Government,27,14,56154,Yes
+P008,85,Male,Heart Disease,Government,17,18,42532,Yes
+P009,21,Female,Heart Disease,Uninsured,27,22,74742,Yes
+P010,47,Female,Diabetes,Government,3,7,14301,Yes
+P011,71,Male,Diabetes,Uninsured,9,,29154,No
+P012,33,Male,Infection,Private,17,24,38032,Yes
+P013,38,Male,Asthma,Government,10,,18690,No
+P014,72,Female,Asthma,Government,14,,37497,No
+P015,62,Female,Cancer,Government,10,8,24756,Yes
+P016,41,Male,Infection,Government,5,,17416,No
+P017,67,Female,Infection,Uninsured,24,16,76105,Yes
+P018,61,Female,Diabetes,Government,4,3,16589,Yes
+P019,46,Male,Heart Disease,Uninsured,20,20,49885,Yes
+P020,70,Female,Infection,Uninsured,18,7,60524,Yes
+P021,23,Male,Cancer,Private,3,29,10944,Yes
+P022,20,Male,Diabetes,Government,18,2,44800,Yes
+P023,61,Male,Asthma,Uninsured,18,17,55188,Yes
+P024,71,Male,Cancer,Uninsured,16,20,44724,Yes
+P025,48,Male,Cancer,Government,17,,79136,No
+P026,33,Male,Infection,Government,22,8,27560,Yes
+P027,21,Female,Heart Disease,Uninsured,15,,72584,No
+P028,60,Male,Infection,Government,4,24,14648,Yes
+P029,21,Female,Cancer,Government,2,,5292,No
+P030,21,Female,Diabetes,Private,9,,30854,No
+P031,84,Male,Infection,Government,11,,27006,No
+P032,61,Female,Kidney Disease,Private,11,,51696,No
+P033,58,Female,Cancer,Uninsured,19,1,51352,Yes
+P034,54,Female,Diabetes,Uninsured,16,,45260,No
+P035,77,Male,Asthma,Government,18,15,37404,Yes
+P036,62,Female,Infection,Government,19,,62452,No
+P037,64,Male,Kidney Disease,Government,7,,39636,No
+P038,50,Female,Kidney Disease,Private,1,,12706,No
+P039,71,Female,Diabetes,Private,15,28,31668,Yes
+P040,53,Female,Diabetes,Government,13,,55827,No
+P041,53,Female,Heart Disease,Uninsured,16,26,64784,Yes
+P042,20,Female,Cancer,Private,28,,87252,No
+P043,55,Female,Diabetes,Private,18,5,24704,Yes
+P044,56,Male,Infection,Uninsured,6,28,30258,Yes
+P045,87,Female,Cancer,Uninsured,22,,31850,No
+P046,90,Male,Heart Disease,Government,27,24,94986,Yes
+P047,28,Female,Diabetes,Private,29,6,45726,Yes
+P048,44,Male,Diabetes,Uninsured,7,,22772,No
+P049,85,Male,Kidney Disease,Private,6,,14764,No
+P050,88,Male,Heart Disease,Government,21,,28725,No
+P051,86,Male,Cancer,Uninsured,30,,75432,No
+P052,41,Female,Heart Disease,Government,26,,67152,No
+P053,18,Female,Infection,Uninsured,23,9,67515,Yes
+P054,45,Male,Cancer,Uninsured,27,,82530,No
+P055,63,Female,Kidney Disease,Private,19,,60352,No
+P056,48,Female,Cancer,Uninsured,27,2,38406,Yes
+P057,80,Male,Kidney Disease,Private,5,14,23220,Yes
+P058,22,Female,Heart Disease,Private,7,15,34238,Yes
+P059,49,Male,Cancer,Uninsured,2,3,18314,Yes
+P060,85,Female,Diabetes,Private,14,,26064,No
+P061,32,Female,Diabetes,Uninsured,12,,56943,No
+P062,81,Female,Heart Disease,Private,21,30,80645,Yes
+P063,89,Male,Cancer,Uninsured,5,21,25026,Yes
+P064,52,Male,Heart Disease,Government,30,,95410,No
+P065,84,Female,Kidney Disease,Private,26,,58584,No
+P066,63,Female,Diabetes,Private,5,9,16104,Yes
+P067,27,Female,Heart Disease,Private,8,,16672,No
+P068,42,Male,Diabetes,Private,10,,25752,No
+P069,40,Female,Kidney Disease,Government,15,27,69572,Yes
+P070,43,Male,Kidney Disease,Uninsured,10,,15447,No
+P071,64,Male,Asthma,Government,26,,89814,No
+P072,41,Male,Asthma,Government,4,7,16944,Yes
+P073,75,Female,Heart Disease,Government,28,21,79758,Yes
+P074,66,Female,Kidney Disease,Government,1,1,11052,Yes
+P075,86,Male,Diabetes,Government,1,17,15958,Yes
+P076,90,Female,Diabetes,Government,7,1,13776,Yes
+P077,46,Female,Infection,Private,11,7,43215,Yes
+P078,38,Female,Asthma,Private,25,,39234,No
+P079,85,Male,Cancer,Uninsured,16,1,22940,Yes
+P080,41,Male,Cancer,Private,23,,51815,No
+P081,79,Male,Heart Disease,Government,18,,33664,No
+P082,41,Male,Diabetes,Private,29,,60012,No
+P083,90,Male,Cancer,Private,2,,11919,No
+P084,78,Male,Heart Disease,Private,23,17,56750,Yes
+P085,35,Male,Heart Disease,Uninsured,8,,25276,No
+P086,33,Female,Kidney Disease,Government,8,,30956,No
+P087,77,Female,Heart Disease,Private,3,,5639,No
+P088,36,Male,Kidney Disease,Government,13,,42747,No
+P089,24,Male,Diabetes,Government,10,,47031,No
+P090,28,Female,Cancer,Uninsured,1,,8429,No
+P091,50,Male,Heart Disease,Private,25,18,114318,Yes
+P092,74,Male,Asthma,Private,23,,43685,No
+P093,31,Female,Cancer,Uninsured,23,,89465,No
+P094,25,Male,Heart Disease,Uninsured,24,9,81450,Yes
+P095,33,Female,Cancer,Government,18,,44132,No
+P096,76,Male,Heart Disease,Government,26,12,87996,Yes
+P097,44,Female,Diabetes,Private,1,,5140,No
+P098,46,Female,Cancer,Government,11,20,18438,Yes
+P099,76,Female,Infection,Uninsured,8,25,38316,Yes
+P100,51,Male,Kidney Disease,Private,10,29,58476,Yes
